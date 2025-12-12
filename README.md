@@ -6,7 +6,7 @@
 **Me considero un desarrollador en constante crecimiento y construcción. Siempre busco refinar mis habilidades con esta base tecnológica para optimizar el rendimiento y la escalabilidad, y estoy abierto a adoptar nuevas herramientas que potencien la calidad y la eficiencia en la resolución de desafíos complejos.**
 
 
-## 💻 Mis Herramientas Favoritas
+## 💻 Tech Stack: Mis Herramientas Favoritas
 
 ### Estructura (Markup)
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
