@@ -33,3 +33,6 @@
 ![GitHub](https://img.shields.io/badge/github-100000.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Mysql](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=camilo-2003" alt="https://github.com/camilo-2003" />
+</div>
